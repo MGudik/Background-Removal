@@ -1,0 +1,9 @@
+{
+    "id": "QQEI2Q",
+    "name": "Background-Removal",
+    "containerName": "emily-background-removal-qqei2q",
+    "image": "tf-cv",
+    "imageVersion": "1.0.0",
+    "emilyVersion": "3.0.0",
+    "mountTargets": []
+}
